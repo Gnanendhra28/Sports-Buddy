@@ -1,4 +1,5 @@
 # Sports Buddy
+<img width="709" alt="Screenshot 2025-06-24 at 11 29 22 AM" src="https://github.com/user-attachments/assets/b797a99b-5c89-4004-bdf2-21d69411d4eb" />
 
 ## Project Overview
 Sports Buddy is a web application designed to help users connect with others for various sports activities. Users can upload details on sports information, locations, and times of events near them. [cite_start]It aims to foster genuine, meaningful interactions outside of social circles by allowing users to find sports partners based on their interests and ability levels. 
